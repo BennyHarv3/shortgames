@@ -18,7 +18,8 @@ everyone thinks dinosaurs went extinct 65 million years ago.
 
 ## Characters
 
-Roll 1d8 per table below to determine your species, role in the movie, and personality trait.
+Roll 1d8 per table below to determine your species, role in the movie, and personality
+trait.
 
 ### Species
 
