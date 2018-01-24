@@ -7,19 +7,14 @@
   - Be a comapny hiring interns?
   - Very board game-y ideas
 - Diva Game - something about being a diva in a show?
-- Alien body control game
-  - Each player takes a section of the body to control
-  - Each section must have some external function or consequence (e.g., you can't control the heart unless it's important)
-  - Roles are not fixed
-  - Players all can speak for the body. Include some token or indicator that players are doing so
-  - Actions and conversations all happen in real time
 
 ## Rules
 
 - Wagering
   - vs Players
     - each player gets pools of dice or cards
-    - whenever a players wants to do something challenging, group calls for a roll/draw and sets the difficulty
+    - whenever a players wants to do something challenging, group calls for a \
+      roll/draw and sets the difficulty
     - player can challenge the current king to a roll-off. winner takes control
     - king decides outcome of action
   - vs GM

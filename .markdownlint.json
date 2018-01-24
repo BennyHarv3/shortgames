@@ -1,0 +1,10 @@
+{
+    "MD013": { "line_length": 80 },
+    "MD029": { "style": "ordered" },
+    "MD033": { "allowed_elements": [
+        "table",
+        "tr",
+        "td",
+        "th"
+    ]}
+}
