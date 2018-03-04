@@ -1,4 +1,8 @@
-# Voting Game Rules Idea
+---
+title: "Rule Idea: Voting"
+---
+
+# Voting Rules Idea
 
 1. Grab a whole host of two types of tokens.
    1. One type will be the yes/affirmative tokens.

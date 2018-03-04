@@ -1,4 +1,8 @@
-# Dinos in the Future
+---
+title: "Dinos Make a Movie"
+---
+
+# Dinos Make a Movie
 
 Inspired by [Grant H's Honey Heist game](https://imgur.com/gallery/Zpg4G)
 
