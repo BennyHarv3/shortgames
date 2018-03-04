@@ -4,22 +4,22 @@ Inspired by [Grant H's Honey Heist game](https://imgur.com/gallery/Zpg4G)
 
 ## Goal
 
-You are tired of the typical scientific dinosaur documentary and want to show off
-how awesome dinosaurs are. You decide to make a Hollywood blockbuster movie, get
-rich, and be famous! But you are a dinosaur living amongst humans even though
-everyone thinks dinosaurs went extinct 65 million years ago.
+You are tired of the typical scientific dinosaur documentary and want to show
+off how awesome dinosaurs are. You decide to make a Hollywood blockbuster movie,
+get rich, and be famous! But you are a dinosaur living amongst humans even
+though everyone thinks dinosaurs went extinct 65 million years ago.
 
 ## Materials
 
-1. 1d8 or more (for character creation); you can also use 1d6 if you would prefer
-   simpler options
+1. 1d8 or more (for character creation); you can also use 1d6 if you would
+   prefer simpler options
 2. 1d6 or more (for play)
 3. Pencil and paper (or some other way to record stats)
 
 ## Characters
 
-Roll 1d8 per table below to determine your species, role in the movie, and personality
-trait.
+Roll 1d8 per table below to determine your species, role in the movie, and
+personality trait.
 
 ### Species
 
@@ -67,9 +67,10 @@ trait.
 
 ### Name and Language
 
-Give your character a name. It can be its real name or a stage name. Your character
-knows the language Dinosaur and can talk to other dinosaurs. You character has a
-very rudimentary grasp on the language Human and can muddle through conversations.
+Give your character a name. It can be its real name or a stage name. Your
+character knows the language Dinosaur and can talk to other dinosaurs. You
+character has a very rudimentary grasp on the language Human and can muddle
+through conversations.
 
 ## Stats
 
@@ -103,19 +104,20 @@ the dinosaur within might come out and rampage a little too much).
 ### Stats and Dying
 
 If your Dino stat reaches 6, you throw down your disguise, roar, and run offset
-to cause chaos and carnage in the streets. A zookeeper will eventually subdue you
-with an outstretched hand and put you on display.
+to cause chaos and carnage in the streets. A zookeeper will eventually subdue
+you with an outstretched hand and put you on display.
 
-If your Diva stat reaches 6, you loudly declare "I quit!", storm offset, and hire
-an agent to get you a new movie, preferably with Stephen Spielberg. You eventually
-star in a reality show for has-beens where no one cares about you.
+If your Diva stat reaches 6, you loudly declare "I quit!", storm offset, and
+hire an agent to get you a new movie, preferably with Stephen Spielberg. You
+eventually star in a reality show for has-beens where no one cares about you.
 
 ## Actions
 
 Whenever you take an action with an uncertain outcome, roll 1d6. If the numnber
 is equal to or less than your relevant stat, you succeed; otherwise, you fail.
-If your action is related to your dinosaur special ability, movie role, personality,
-or disguise, add an extra die to the pool and choose the lowest value on the roll.
+If your action is related to your dinosaur special ability, movie role,
+personality, or disguise, add an extra die to the pool and choose the lowest
+value on the roll.
 
 ## Ending the Game
 
@@ -124,7 +126,8 @@ premier after-party ends.
 
 ## Random Tables
 
-Use any of the below tables if you get stuck during play or just want a random experience.
+Use any of the below tables if you get stuck during play or just want a random
+experience.
 
 ### Type of Movie
 
@@ -178,8 +181,8 @@ Use any of the below tables if you get stuck during play or just want a random e
 3. The studio execs knows the players are dinosaurs and is terrified of them
 4. This film will bring about a dinosaur empire, so one of the humans on set was
    sent from the future to stop it from happening
-5. The studio never got the rights to produce a dinosaur movie and will be forced
-   to close down the set midway through filming
+5. The studio never got the rights to produce a dinosaur movie and will be
+   forced to close down the set midway through filming
 6. A meteor is headed straight for the film set and will strike in two days
 7. Stephen Spielberg heard about the film and is trying to shut it down
 8. The Discovery Channel set up this whole thing
