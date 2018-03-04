@@ -8,6 +8,6 @@ me.
 
 Here's a list of the current games:
 
-* [Body Parts]({{ site.baseurl }}{% link /bodyparts.md %})
-* [Dino Movie]({{ site.baseurl }}{% link /dinomovie.md %})
-* [Ride Off]({{ site.baseurl }}{% link /rideoff.md %})
+* [Body Parts]({{ site.baseurl }}{% link /bodyparts %})
+* [Dino Movie]({{ site.baseurl }}{% link /dinomovie %})
+* [Ride Off]({{ site.baseurl }}{% link /rideoff %})
