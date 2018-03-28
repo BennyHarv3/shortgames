@@ -8,7 +8,7 @@ Wagering
 
 * vs Players
   * each player gets pools of dice or cards
-  * whenever a players wants to do something challenging, group calls for a \
+  * whenever a players wants to do something challenging, group calls for a
     roll/draw and sets the difficulty
   * player can challenge the current king to a roll-off. winner takes control
   * king decides outcome of action
