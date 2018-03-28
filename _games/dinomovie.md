@@ -17,8 +17,8 @@ though everyone thinks dinosaurs went extinct 65 million years ago.
 
 1. 1d8 or more (for character creation); you can also use 1d6 if you would
    prefer simpler options
-2. 1d6 or more (for play)
-3. Pencil and paper (or some other way to record stats)
+1. 1d6 or more (for play)
+1. Pencil and paper (or some other way to record stats)
 
 ## Characters
 
@@ -28,46 +28,46 @@ personality trait.
 ### Species
 
 1. Triceratops (charging)
-2. Stegosaurus (standing ground)
-3. Ankylosaurus (taking damage)
-4. Archaeopteryx (flying)
-5. Parasaurolophus (swimming)
-6. Compsognathus (sneaking)
-7. Velociraptor (acrobatics)
-8. Anything else (subject to player agreement) or roll again
+1. Stegosaurus (standing ground)
+1. Ankylosaurus (taking damage)
+1. Archaeopteryx (flying)
+1. Parasaurolophus (swimming)
+1. Compsognathus (sneaking)
+1. Velociraptor (acrobatics)
+1. Anything else (subject to player agreement) or roll again
 
 ### Movie Role
 
 1. Director
-2. Lead
-3. Producer
-4. Set designer
-5. Sound/lights
-6. Special effects
-7. Stunt/fighting instructor
-8. Anything else (subject to player agreement) or roll again
+1. Lead
+1. Producer
+1. Set designer
+1. Sound/lights
+1. Special effects
+1. Stunt/fighting instructor
+1. Anything else (subject to player agreement) or roll again
 
 ### Personality Trait
 
 1. Fresh off the bus
-2. Sleazy
-3. Perfectionist
-4. Short tempered
-5. Washed up
-6. Rising star
-7. Druggie
-8. Anything else (subject to player agreement) or roll again
+1. Sleazy
+1. Perfectionist
+1. Short tempered
+1. Washed up
+1. Rising star
+1. Druggie
+1. Anything else (subject to player agreement) or roll again
 
 ### Disguise (optional)
 
 1. Hat
-2. Coat
-3. Pants
-4. Shoes
-5. Feather boa
-6. Necklace/earrings
-7. Lingerie
-8. Anything else (subject to player agreement) or roll again
+1. Coat
+1. Pants
+1. Shoes
+1. Feather boa
+1. Necklace/earrings
+1. Lingerie
+1. Anything else (subject to player agreement) or roll again
 
 ### Name and Language
 
@@ -91,14 +91,14 @@ following ways.
 #### Diva -> Dino
 
 1. Roar like a dinosaur
-2. Rampage through the streets
-3. Eat your preferred meal option in public without utensils
+1. Rampage through the streets
+1. Eat your preferred meal option in public without utensils
 
 #### Dino -> Diva
 
 1. Flip your hair dramatically
-2. Scoff at a player or the GM with a condescending/mean insult
-3. Steal the show and perform a scene from the movie extravagantly (who cares if
+1. Scoff at a player or the GM with a condescending/mean insult
+1. Steal the show and perform a scene from the movie extravagantly (who cares if
    you're explicity an actor) or sabotage the set
 
 When a player rolls, and the lowest die is a 6, the GM can move a point from the
@@ -136,57 +136,57 @@ experience.
 ### Type of Movie
 
 1. Action
-2. Drama
-3. Comedy
-4. Horror
-5. Science Fiction
-6. Romance
-7. Mystery
-8. Present-day documentary
+1. Drama
+1. Comedy
+1. Horror
+1. Science Fiction
+1. Romance
+1. Mystery
+1. Present-day documentary
 
 ### Filming Location
 
 1. New Zealand countryside
-2. Hollywood studio set
-3. Pittsburgh streets
-4. Antartica
-5. Sahara Desert
-6. Studio apartment
-7. Cave
-8. Green screen set
+1. Hollywood studio set
+1. Pittsburgh streets
+1. Antartica
+1. Sahara Desert
+1. Studio apartment
+1. Cave
+1. Green screen set
 
 ### Hinderances to filming (roll 2-3 times)
 
 1. Actors get food poisoning
-2. Studio execs say no to every major plot point
-3. Important staff member gets slapped with a sexual harassment lawsuit
-4. Someone leaks some early footage and audiences hate it
-5. Script is terrible
-6. Scientists protest the movie due to its "inaccurate portrayal of dinosaurs"
-7. Budget runs out
-8. A rival studio is making a similar movie and is getting better publicity
+1. Studio execs say no to every major plot point
+1. Important staff member gets slapped with a sexual harassment lawsuit
+1. Someone leaks some early footage and audiences hate it
+1. Script is terrible
+1. Scientists protest the movie due to its "inaccurate portrayal of dinosaurs"
+1. Budget runs out
+1. A rival studio is making a similar movie and is getting better publicity
 
 ### The studio
 
 1. is cheap and withholding
-2. is betting everything on this one movie
-3. has too many projects right now and barely pays attention to yours
-4. wants more nudity
-5. gives you everything you need way too readily
-6. thinks dinosaurs are real and are living amongst humans and wants to out them
-7. wants to remake Jurassic Park "but better, you know?"
-8. thinks you should replace dinosaurs with sexy aliens
+1. is betting everything on this one movie
+1. has too many projects right now and barely pays attention to yours
+1. wants more nudity
+1. gives you everything you need way too readily
+1. thinks dinosaurs are real and are living amongst humans and wants to out them
+1. wants to remake Jurassic Park "but better, you know?"
+1. thinks you should replace dinosaurs with sexy aliens
 
 ### GM Secret Table
 
 1. PETA is trying to "protect" the dinosaur actors by killing them
-2. The dinosaur players are actually robots and/or puppets controlled by humans
+1. The dinosaur players are actually robots and/or puppets controlled by humans
    but those humans don't know it
-3. The studio execs knows the players are dinosaurs and is terrified of them
-4. This film will bring about a dinosaur empire, so one of the humans on set was
+1. The studio execs knows the players are dinosaurs and is terrified of them
+1. This film will bring about a dinosaur empire, so one of the humans on set was
    sent from the future to stop it from happening
-5. The studio never got the rights to produce a dinosaur movie and will be
+1. The studio never got the rights to produce a dinosaur movie and will be
    forced to close down the set midway through filming
-6. A meteor is headed straight for the film set and will strike in two days
-7. Stephen Spielberg heard about the film and is trying to shut it down
-8. The Discovery Channel set up this whole thing
+1. A meteor is headed straight for the film set and will strike in two days
+1. Stephen Spielberg heard about the film and is trying to shut it down
+1. The Discovery Channel set up this whole thing

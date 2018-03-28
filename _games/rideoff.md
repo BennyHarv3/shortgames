@@ -56,7 +56,8 @@ below
   </tr>
   <tr>
     <td>1</td>
-    <td>the player failed to do the thing and has been injured in the process, losing a die from his or her die pool</td>
+    <td>the player failed to do the thing and has been injured in the process,
+        losing a die from his or her die pool</td>
   </tr>
   <tr>
     <td>2</td>
@@ -68,7 +69,8 @@ below
   </tr>
   <tr>
     <td>6</td>
-    <td>the player miraculously succeeds and should receive some extra reward such as a a better outcome and/or pausing the timer for 6 seconds or more.</td>
+    <td>the player miraculously succeeds and should receive some extra reward
+        such as a a better outcome and/or pausing the timer for 6 seconds or more.</td>
   </tr>
 </table>
 

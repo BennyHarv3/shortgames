@@ -10,21 +10,22 @@ Body Parts takes a group of players, turns them into small aliens, and puts all
 of them in control of one body. The goal of the game is two-fold:
 
 1. Build or find a way to get back to your home planet, and
-2. Complete ordinary, every day challenges without being caught
+1. Complete ordinary, every day challenges without being caught
 
 ## Materials
 
-* Stack of note cards (or sheets of paper)
-* Pens (or pencils), preferably one per player
-* One d6
+* Stack of note cards or sheets of paper
+* One pencil or pen per player
+* At least one d6
 
 ## Character Creation
 
 All players are part of some alien race. The name of the alien race is the first
-letter of everyone's last meal in one word. Each alien
+letter of everyone's last meal in one word (for example, if the meals were
+lasagna, pizza, hot dogs, and steak, the race could be shlp). Each alien
 
 1. is telepathic and can communicate with the others one at a time, and
-2. is small, weak, and defenseless outside the human robot.
+1. is small, weak, and defenseless outside the human robot.
 
 ### Telepathy
 
@@ -45,7 +46,7 @@ must destroy the entire card. The player then has 30 seconds to speak to all
 players freely; however, the other players cannot communicate back.
 
 Once a player's card is gone, that player can no longer use telepathy for the
-rest of the day in game time. After an appropriate amount of rest, the player
+rest of the day (in game time). After an appropriate amount of rest, the player
 should be given a new card.
 
 ### Body Parts and Powers
